@@ -8,7 +8,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>spring-boot-jwt-demo</name>
+    <name>springboot-security-jwt</name>
     <description>Demo project for Spring Boot and Spring Security and Jwt and Redis</description>
 
     <parent>
